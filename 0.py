@@ -1,5 +1,6 @@
 """
 Zadanie 0:
+
 Przygotuj funkcję sprawdzająca czy osoba o przekazanym wieku jest osobą pełnoletnią.
 """
 

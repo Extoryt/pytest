@@ -1,5 +1,6 @@
 """
 Zadanie 1:
+
 Przygotuj funkcję, która na podstawie wysokości oraz długości podstawy WYŚWIETLI (print) pole trojkąta.
 """
 
